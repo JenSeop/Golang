@@ -7,5 +7,3 @@ Great job! We’ve just finished your first Go lesson! In this lesson we learned
 - Go Functions, including the main function.
 - Comments.
 - Resources, including go doc.
-
-If you’re interested in setting up your computer to create Go programs on your own computer, use our guide for developing Go locally!
