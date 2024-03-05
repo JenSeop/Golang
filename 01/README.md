@@ -8,15 +8,15 @@ In our terminal, we type in go build followed by the name of our file and press 
 
 While nothing obvious is shown after we run our command, Go has created our program’s executable file. If we type in the command ls, we’ll see our original Go program and its executable file.
 
-<code>
+'''
 ls
 greet     greet.go
-</code>
+'''
 
 To execute the file, we call:
 
-<code>
+'''
 ./greet
-</code>
+'''
 
 Now let’s go one step further and actually do it!
